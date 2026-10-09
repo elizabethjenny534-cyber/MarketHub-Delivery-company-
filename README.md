@@ -1,101 +1,44 @@
 
----
-layout: default
-title: MarketHub Delivery
-description: Shipment information and customer guidance
----
-
-<style>
-.delivery-hero {
-  background: #10243a;
-  color: white;
-  padding: 38px 28px;
-  border-radius: 12px;
-  margin-bottom: 24px;
-}
-.delivery-hero h1 { color: white; }
-.delivery-card {
-  border: 1px solid #dce4ed;
-  border-radius: 10px;
-  padding: 22px;
-  margin: 18px 0;
-}
-.delivery-notice {
-  background: #fff7e6;
-  border-left: 5px solid #b7791f;
-  padding: 18px;
-  margin: 22px 0;
-}
-.delivery-label {
-  color: #526579;
-  font-weight: bold;
-}
-</style>
-
-<div class="delivery-hero">
-
 # MarketHub Delivery
 
-**Shipment Information & Customer Services**
+### Shipment Information & Customer Services
 
-Professional delivery information, customer guidance,
-and shipment verification support.
+Welcome to the MarketHub Delivery project repository. This website provides general delivery information, shipment guidance, and customer support information.
 
-</div>
+## Our Services
 
-<div class="delivery-card">
+- General shipment information
+- Delivery documentation guidance
+- Customs and clearance information
+- Customer enquiry assistance
+- Shipment verification guidance
 
-## Shipment Details
+## Shipment Information
 
-| Field | Information |
-|---|---|
-| Recipient | Awan Errel Jacques |
-| Destination | Paramaribo, Suriname |
-| Reported transit route | Gaza → Serbia → Suriname |
-| Shipment status | Awaiting independent verification |
+Shipment details, transit routes, delivery status, and recipient information must be confirmed directly with the relevant seller or carrier.
 
-</div>
+## Customs & Clearance
 
-<div class="delivery-card">
+Customs requirements and charges depend on the shipment, destination, and applicable regulations.
 
-## Customs & Clearance Guidance
+Before making a payment, verify all charges directly with the relevant customs authority or independently verified carrier.
 
-Customs requirements, documentation, and charges depend
-on the shipment and the applicable authorities.
+## Important Notice
 
-Before making any payment, request documentation and
-confirm the charges directly with the relevant customs
-authority or independently verified carrier.
+This website does not independently verify individual shipments, carrier affiliations, transit routes, or customs fees.
 
-</div>
-
-<div class="delivery-notice">
-
-**Important: Verification Required**
-
-The recipient details and reported route above have not
-been independently verified by this website. This page
-is not an official customs notice, proof of shipment,
-or confirmation that a clearance payment is required.
-
-No clearance fee is confirmed here. Do not rely solely
-on a message or telephone number when verifying charges.
-
-</div>
-
-<div class="delivery-card">
+It is not an official customs document, proof of shipment, or proof of payment. No clearance fee is confirmed by this README.
 
 ## Customer Support
 
-For shipment questions, contact the seller or carrier
-through independently verified contact information.
+For shipment enquiries, contact the seller or carrier using independently verified contact information.
 
-Please retain relevant shipment documents and request
-written confirmation of any applicable charges.
+## Website
 
-</div>
+The homepage is available through GitHub Pages when publishing is enabled.
+
+**Repository:** [MarketHub Delivery](https://github.com/elizabethjenny534-cyber/MarketHub-Delivery-company-)
 
 ---
 
 *MarketHub Delivery — General shipment information and customer guidance.*
-
