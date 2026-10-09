@@ -1,101 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="MarketHub Delivery shipment information and customer guidance.">
+  <title>MarketHub Delivery</title>
 
----
-layout: default
-title: MarketHub Delivery
-description: Shipment information and customer guidance
----
+  <style>
+    * {
+      box-sizing: border-box;
+    }
 
-<style>
-.delivery-hero {
-  background: #10243a;
-  color: white;
-  padding: 38px 28px;
-  border-radius: 12px;
-  margin-bottom: 24px;
-}
-.delivery-hero h1 { color: white; }
-.delivery-card {
-  border: 1px solid #dce4ed;
-  border-radius: 10px;
-  padding: 22px;
-  margin: 18px 0;
-}
-.delivery-notice {
-  background: #fff7e6;
-  border-left: 5px solid #b7791f;
-  padding: 18px;
-  margin: 22px 0;
-}
-.delivery-label {
-  color: #526579;
-  font-weight: bold;
-}
-</style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      color: #263445;
+      background: #f3f6fa;
+    }
 
-<div class="delivery-hero">
+    header {
+      background: #10243a;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
 
-# MarketHub Delivery
+    header h1 {
+      margin: 0;
+      font-size: 28px;
+    }
 
-**Shipment Information & Customer Services**
+    .hero {
+      background: #1769aa;
+      color: white;
+      text-align: center;
+      padding: 45px 20px;
+    }
 
-Professional delivery information, customer guidance,
-and shipment verification support.
+    .hero h2 {
+      font-size: 30px;
+      margin: 0 0 12px;
+    }
 
-</div>
+    main {
+      max-width: 900px;
+      margin: 25px auto;
+      padding: 0 16px;
+    }
 
-<div class="delivery-card">
+    .card {
+      background: white;
+      border-radius: 10px;
+      padding: 22px;
+      margin-bottom: 20px;
+      border: 1px solid #dce4ed;
+    }
 
-## Shipment Details
+    .card h2 {
+      color: #10243a;
+      margin-top: 0;
+    }
 
-| Field | Information |
-|---|---|
-| Recipient | Awan Errel Jacques |
-| Destination | Paramaribo, Suriname |
-| Reported transit route | Gaza → Serbia → Suriname |
-| Shipment status | Awaiting independent verification |
+    .notice {
+      background: #fff7e6;
+      border-left: 5px solid #b7791f;
+      padding: 18px;
+      margin-bottom: 20px;
+    }
 
-</div>
+    footer {
+      background: #10243a;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
 
-<div class="delivery-card">
+    @media (max-width: 600px) {
+      .hero h2 {
+        font-size: 24px;
+      }
+    }
+  </style>
+</head>
 
-## Customs & Clearance Guidance
+<body>
+  <header>
+    <h1>MarketHub Delivery</h1>
+    <p>Shipment Information & Customer Services</p>
+  </header>
 
-Customs requirements, documentation, and charges depend
-on the shipment and the applicable authorities.
+  <section class="hero">
+    <h2>Welcome to MarketHub Delivery</h2>
+    <p>General delivery information, shipment guidance, and customer support.</p>
+  </section>
 
-Before making any payment, request documentation and
-confirm the charges directly with the relevant customs
-authority or independently verified carrier.
+  <main>
+    <section class="card">
+      <h2>Shipment Information</h2>
+      <p>Shipment details, delivery routes, carrier identity, and delivery status must be confirmed directly with the seller or carrier.</p>
+      <p><strong>Status:</strong> Shipment details require independent verification.</p>
+    </section>
 
-</div>
+    <section class="card">
+      <h2>Customs & Clearance</h2>
+      <p>Customs requirements and applicable charges depend on the shipment and destination.</p>
+      <p>Ask for official documentation and independently verify any requested payment with the relevant customs authority or verified carrier before paying.</p>
+    </section>
 
-<div class="delivery-notice">
+    <section class="notice">
+      <h2>Important Verification Notice</h2>
+      <p>This website does not independently verify individual shipments, routes, carrier affiliations, or customs fees.</p>
+      <p>This page is not an official customs notice, proof of shipment, or confirmation that a clearance fee is due. No clearance fee is confirmed here.</p>
+    </section>
 
-**Important: Verification Required**
+    <section class="card">
+      <h2>Customer Support</h2>
+      <p>For shipment enquiries, contact your seller or carrier through independently verified contact information.</p>
+      <p>Keep your shipment documents and request written confirmation of any applicable charges.</p>
+    </section>
+  </main>
 
-The recipient details and reported route above have not
-been independently verified by this website. This page
-is not an official customs notice, proof of shipment,
-or confirmation that a clearance payment is required.
-
-No clearance fee is confirmed here. Do not rely solely
-on a message or telephone number when verifying charges.
-
-</div>
-
-<div class="delivery-card">
-
-## Customer Support
-
-For shipment questions, contact the seller or carrier
-through independently verified contact information.
-
-Please retain relevant shipment documents and request
-written confirmation of any applicable charges.
-
-</div>
-
----
-
-*MarketHub Delivery — General shipment information and customer guidance.*
-
+  <footer>
+    <p>&copy; 2026 MarketHub Delivery</p>
+    <p>General shipment information and customer guidance.</p>
+  </footer>
+</body>
+</html>
