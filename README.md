@@ -1,24 +1,101 @@
-MarketHub Delivery
 
-SHIPMENT ARRIVAL & CLEARANCE NOTICE
+---
+layout: default
+title: MarketHub Delivery
+description: Shipment information and customer guidance
+---
 
-Client Name: Awan Errel Jacques
+<style>
+.delivery-hero {
+  background: #10243a;
+  color: white;
+  padding: 38px 28px;
+  border-radius: 12px;
+  margin-bottom: 24px;
+}
+.delivery-hero h1 { color: white; }
+.delivery-card {
+  border: 1px solid #dce4ed;
+  border-radius: 10px;
+  padding: 22px;
+  margin: 18px 0;
+}
+.delivery-notice {
+  background: #fff7e6;
+  border-left: 5px solid #b7791f;
+  padding: 18px;
+  margin: 22px 0;
+}
+.delivery-label {
+  color: #526579;
+  font-weight: bold;
+}
+</style>
 
-Shipment Route: Gaza → Serbia → Paramaribo, Suriname
+<div class="delivery-hero">
 
-Shipment Status: Reported to have arrived in Serbia, pending confirmation of arrival and clearance requirements.
+# MarketHub Delivery
 
-Clearance Information
+**Shipment Information & Customer Services**
 
-Clearance Charge: US$450.00
+Professional delivery information, customer guidance,
+and shipment verification support.
 
-The company has provided this amount as the clearance charge for the shipment in Serbia. Clearance must be completed before onward transportation, if required by the relevant authorities.
+</div>
 
-Payment Notice: The amount and applicable clearance requirements should be confirmed with the carrier or Serbian customs authority before payment.
+<div class="delivery-card">
 
-Contact Information
+## Shipment Details
 
-Company: MarketHub Delivery
-WhatsApp: +381621407359
+| Field | Information |
+|---|---|
+| Recipient | Awan Errel Jacques |
+| Destination | Paramaribo, Suriname |
+| Reported transit route | Gaza → Serbia → Suriname |
+| Shipment status | Awaiting independent verification |
 
-This document summarizes company-provided information. It is not an official customs document or proof of payment.
+</div>
+
+<div class="delivery-card">
+
+## Customs & Clearance Guidance
+
+Customs requirements, documentation, and charges depend
+on the shipment and the applicable authorities.
+
+Before making any payment, request documentation and
+confirm the charges directly with the relevant customs
+authority or independently verified carrier.
+
+</div>
+
+<div class="delivery-notice">
+
+**Important: Verification Required**
+
+The recipient details and reported route above have not
+been independently verified by this website. This page
+is not an official customs notice, proof of shipment,
+or confirmation that a clearance payment is required.
+
+No clearance fee is confirmed here. Do not rely solely
+on a message or telephone number when verifying charges.
+
+</div>
+
+<div class="delivery-card">
+
+## Customer Support
+
+For shipment questions, contact the seller or carrier
+through independently verified contact information.
+
+Please retain relevant shipment documents and request
+written confirmation of any applicable charges.
+
+</div>
+
+---
+
+*MarketHub Delivery — General shipment information and customer guidance.*
+
